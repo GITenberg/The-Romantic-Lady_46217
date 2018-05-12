@@ -1,0 +1,39 @@
+_repo: The-Romantic-Lady_46217
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46217-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arlen, Michael
+    aliases:
+    - Kuyumchean, Dikran
+    - Kuyumjian, Dikran
+    - Guyumchian, Tigran
+    - Guyumchyan, Tigran
+    - Guyumchean, Tigran
+    - Guyumjyan, Tigran
+    - Kouyoumjian, Dikran
+    - Kuyumcuyan, Dikran
+    - Kouyoumdjian, Dikran
+    birthdate: 1895
+    deathdate: 1956
+    gutenberg_agent_id: '40583'
+    url: http://www.gutenberg.org/2009/agents/40583
+description: The romantic lady. - Fay Richmond. - Consuelo. - The romance of Iris
+  Poole.
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: The romantic lady -- Fay Richmond -- Consuelo -- The romance of Iris
+  Poole.
+title: The Romantic Lady
+url: http://www.gutenberg.org/ebooks/46217
